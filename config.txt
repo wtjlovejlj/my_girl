@@ -21,9 +21,9 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2019-09-01",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "所念皆星河，星河皆是你。",
 # 金句英文
-"note_en": ""
+"note_en": "All you think is star River, all star river is you."
 }
 
 #更多资源学习请访问东阁：https://oo1o.cn
